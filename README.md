@@ -15,7 +15,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
 
 ### Report prac zespołu:
 
-**Czas poświecony przez poszczególnego członka zespołu na projekt:**
+**Łączny czas każdego członka zespołu poświęcony na projekt:**
 
   <li>Dawid Raźny: h</li>
   <li>Maciej Pawlisz: h</li> 
