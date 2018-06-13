@@ -16,6 +16,7 @@ Marcin Hernas
 ### Report prac zespołu:
 
 **Czas poświecony przez poszczególnego członka zespołu na projekt:**
+
 -Dawid Raźny: h
 -Maciej Pawlisz: h 
 -Damian Suchy: h
