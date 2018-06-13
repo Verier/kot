@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Verier/kot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Projekt nazywa się Hint it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Opis projektu:
 
-### Markdown
+Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W aplikacji jest baza użytkowników. Każdy z nich posiada punkty. Pytając o sugestie możesz uzyskać odpowiedź na pytanie. Jeżeli odpowiedź jest dobra, udzielasz jej plusowych punktów, w przeciwnym wypadku punktów minusowych. Każdy kolejno uzyskany punkt wydłuża czas widoczności danego pytania oraz odpowiedzi do niego. Odczyt lokalizacji z urządzenia pozwala na zadawanie pytań w wybranym przez użytkownika obszarze, nie większym niż domyślny. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Zespół projektowy:
 
-# Header 1
-## Header 2
-### Header 3
+Dawid Raźny 
+Maciej Pawlisz 
+Damian Suchy 
+Marcin Hernas 
 
-- Bulleted
-- List
+### Report prac zespołu:
 
-1. Numbered
-2. List
+**Czas poświecony przez poszczególnego członka zespołu na projekt:**
+-Dawid Raźny: h
+-Maciej Pawlisz: h 
+-Damian Suchy: h
+-Marcin Hernas: h
 
-**Bold** and _Italic_ and `Code` text
+**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Verier/kot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
