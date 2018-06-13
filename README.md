@@ -8,7 +8,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
 
 ### Zespół projektowy:
 
-  <li>Dawid Raźny</li>
+  <li>Dawid Raźny (Kierownik projektu)</li>
   <li>Maciej Pawlisz</li> 
   <li>Damian Suchy</li>
   <li>Marcin Hernas</li>
