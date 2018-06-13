@@ -22,7 +22,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Damian Suchy: h</li>
   <li>Marcin Hernas: h</li>
 
- **Wykaz wykonanych prac:**
+**Wykaz wykonanych prac:**
   
   <li>Wykaz wykonanych prac oraz poświęcony na nie czas znajduje się <a href="https://trello.com/b/TPkiTLzT/hint-it-projekt-specjalizacja-wsei">Platforma Trello</a></li>
   <li>Strona internetowa projektu <a href="https://raznyy.github.io/Hint-It/">Github Pages</a></li>
