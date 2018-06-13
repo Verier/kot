@@ -20,7 +20,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Dawid Raźny: h</li>
   <li>Maciej Pawlisz: h</li> 
   <li>Damian Suchy: h</li>
-  <li>Marcin Hernas: h</li>
+  <li>Marcin Hernas: h</li><br>
 
 
 **Wykaz wykonanych prac:**
