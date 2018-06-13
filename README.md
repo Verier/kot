@@ -17,11 +17,11 @@ Marcin Hernas
 
 **Czas poświecony przez poszczególnego członka zespołu na projekt:**
 
--list
--Dawid Raźny: h
--Maciej Pawlisz: h 
--Damian Suchy: h
--Marcin Hernas: h
+<ol>
+  <li>Dawid Raźny: h</li>
+  <li>Maciej Pawlisz: h</li> 
+Damian Suchy: h
+Marcin Hernas: h
 
 
 
