@@ -21,10 +21,11 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Maciej Pawlisz: h</li> 
   <li>Damian Suchy: h</li>
   <li>Marcin Hernas: h</li>
- <br>
+
  **Wykaz wykonanych prac:**
   
   <li>Wykaz wykonanych prac oraz poświęcony na nie czas znajduje się <a href="https://trello.com/b/TPkiTLzT/hint-it-projekt-specjalizacja-wsei">Platforma Trello</a></li>
   <li>Strona internetowa projektu <a href="https://raznyy.github.io/Hint-It/">Github Pages</a></li>
+  <li>Repozytorium z projektem znajduje się <a href="https://github.com/Raznyy/Hint-It">Platforma Github</a></li>
 
 
