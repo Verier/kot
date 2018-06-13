@@ -23,5 +23,5 @@ Marcin Hernas
 -Damian Suchy: h
 -Marcin Hernas: h
 
-**
+
 
