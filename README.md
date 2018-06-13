@@ -21,6 +21,9 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Maciej Pawlisz: h</li> 
   <li>Damian Suchy: h</li>
   <li>Marcin Hernas: h</li>
-
+  
+  **Wykaz wykonanych prac:**
+  
+  Wykaz wykonanych prac oraz poświęcony na nie czas znajduje się <a href="https://trello.com/b/TPkiTLzT/hint-it-projekt-specjalizacja-wsei">Platforma Trello</a>
 
 
