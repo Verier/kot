@@ -17,6 +17,7 @@ Marcin Hernas
 
 **Czas poświecony przez poszczególnego członka zespołu na projekt:**
 
+-list
 -Dawid Raźny: h
 -Maciej Pawlisz: h 
 -Damian Suchy: h
