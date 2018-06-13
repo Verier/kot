@@ -13,7 +13,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Damian Suchy</li>
   <li>Marcin Hernas</li>
 
-### Report prac zespołu:
+## Report prac zespołu:
 
 **Łączny czas każdego członka zespołu poświęcony na projekt:**
 
