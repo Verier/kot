@@ -21,6 +21,7 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
   <li>Maciej Pawlisz: h</li> 
   <li>Damian Suchy: h</li>
   <li>Marcin Hernas: h</li>
+  
 **Informacje:**
 
 <li>otyp projektu znajduje się w pliku <a href="https://github.com/Raznyy/Hint-It/blob/master/mockup/Exports/Hint%20it!%20-%20Mockup%20v4.pdf">mockup</a></li>
