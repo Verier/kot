@@ -7,21 +7,21 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
 
 
 ### Zespół projektowy:
-
- <li>Dawid Raźny</li>
+<ul>
+  <li>Dawid Raźny</li>
   <li>Maciej Pawlisz</li> 
   <li>Damian Suchy</li>
   <li>Marcin Hernas</li>
-
+</ul>
 ### Report prac zespołu:
 
 **Czas poświecony przez poszczególnego członka zespołu na projekt:**
-
+<ul>
   <li>Dawid Raźny: h</li>
   <li>Maciej Pawlisz: h</li> 
   <li>Damian Suchy: h</li>
   <li>Marcin Hernas: h</li>
-
+</ul>
  **Wykaz wykonanych prac:**
   
   <li>Wykaz wykonanych prac oraz poświęcony na nie czas znajduje się <a href="https://trello.com/b/TPkiTLzT/hint-it-projekt-specjalizacja-wsei">Platforma Trello</a></li>
