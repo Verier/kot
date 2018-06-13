@@ -8,20 +8,19 @@ Hint it to aplikacja, dzięki której uzyskasz szybką odpowiedź na pytanie. W 
 
 ### Zespół projektowy:
 
-Dawid Raźny 
-Maciej Pawlisz 
-Damian Suchy 
-Marcin Hernas 
+ <li>Dawid Raźny</li>
+  <li>Maciej Pawlisz</li> 
+  <li>Damian Suchy</li>
+  <li>Marcin Hernas</li>
 
 ### Report prac zespołu:
 
 **Czas poświecony przez poszczególnego członka zespołu na projekt:**
 
-<ol>
   <li>Dawid Raźny: h</li>
   <li>Maciej Pawlisz: h</li> 
-Damian Suchy: h
-Marcin Hernas: h
+  <li>Damian Suchy: h</li>
+  <li>Marcin Hernas: h</li>
 
 
 
